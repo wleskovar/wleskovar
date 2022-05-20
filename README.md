@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">Hola 👋, Soy Walter Leskovar</h1>
+<h1 align="center">Hola 👋, soy Walter Leskovar</h1>
 <h3 align="center">Desarrollador Fullstack y Python</h3>
 
-- Trabajando como freelance **para diferentes agencias**
+- Trabajo como freelance **para diferentes agencias**
 
 - Si precisas ayuda o tienes proyectos para desarrollar, me puedes contactar por mail **wleskovar@gmail.com**
 
