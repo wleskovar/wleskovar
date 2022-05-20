@@ -5,13 +5,13 @@
 <h1 align="center">Hola 👋, Soy Walter Leskovar</h1>
 <h3 align="center">Desarrollador Fullstack y Python</h3>
 
-- Trabajando como freelance **para diferentes agencia**
+- Trabajando como freelance **para diferentes agencias**
 
-- Si quires ayuda o tienes proyectos para desarrollar, me puedes contactar por mail **wleskovar@gmail.com**
+- Si precisas ayuda o tienes proyectos para desarrollar, me puedes contactar por mail **wleskovar@gmail.com**
 
 - Desarrollos **front end y back end**
 
-- En python **preparación de dataset para ciencia de datos**
+- En Python **preparación de dataset para ciencia de datos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
