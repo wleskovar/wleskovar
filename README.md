@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, soy Walter Leskovar</h1>
 <h3 align="center">Desarrollador Fullstack y Python</h3>
 
-- Trabajo como freelance **para diferentes agencias**
+- En busqueda de nuevos proyectos. **Comenzando mi tercer etapa profesional.**
 
 - Si precisas ayuda o tienes proyectos para desarrollar, me puedes contactar por mail **wleskovar@gmail.com**
 
